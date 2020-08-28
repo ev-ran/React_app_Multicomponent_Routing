@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/React_app_Multicomponent_Routing/static/css/main.553d5387.chunk.css",
-    "main.js": "/React_app_Multicomponent_Routing/static/js/main.620234ba.chunk.js",
-    "main.js.map": "/React_app_Multicomponent_Routing/static/js/main.620234ba.chunk.js.map",
-    "runtime-main.js": "/React_app_Multicomponent_Routing/static/js/runtime-main.914221e7.js",
-    "runtime-main.js.map": "/React_app_Multicomponent_Routing/static/js/runtime-main.914221e7.js.map",
-    "static/js/2.383d1f55.chunk.js": "/React_app_Multicomponent_Routing/static/js/2.383d1f55.chunk.js",
-    "static/js/2.383d1f55.chunk.js.map": "/React_app_Multicomponent_Routing/static/js/2.383d1f55.chunk.js.map",
+    "main.js": "/React_app_Multicomponent_Routing/static/js/main.1509b161.chunk.js",
+    "main.js.map": "/React_app_Multicomponent_Routing/static/js/main.1509b161.chunk.js.map",
+    "runtime-main.js": "/React_app_Multicomponent_Routing/static/js/runtime-main.6c28279b.js",
+    "runtime-main.js.map": "/React_app_Multicomponent_Routing/static/js/runtime-main.6c28279b.js.map",
+    "static/js/2.1603782d.chunk.js": "/React_app_Multicomponent_Routing/static/js/2.1603782d.chunk.js",
+    "static/js/2.1603782d.chunk.js.map": "/React_app_Multicomponent_Routing/static/js/2.1603782d.chunk.js.map",
     "index.html": "/React_app_Multicomponent_Routing/index.html",
-    "precache-manifest.8a378f029d10bc041132029c4487a4cd.js": "/React_app_Multicomponent_Routing/precache-manifest.8a378f029d10bc041132029c4487a4cd.js",
+    "precache-manifest.7a1b61546e9683514d6d35c68c3202da.js": "/React_app_Multicomponent_Routing/precache-manifest.7a1b61546e9683514d6d35c68c3202da.js",
     "service-worker.js": "/React_app_Multicomponent_Routing/service-worker.js",
     "static/css/main.553d5387.chunk.css.map": "/React_app_Multicomponent_Routing/static/css/main.553d5387.chunk.css.map",
-    "static/js/2.383d1f55.chunk.js.LICENSE.txt": "/React_app_Multicomponent_Routing/static/js/2.383d1f55.chunk.js.LICENSE.txt",
+    "static/js/2.1603782d.chunk.js.LICENSE.txt": "/React_app_Multicomponent_Routing/static/js/2.1603782d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/React_app_Multicomponent_Routing/static/media/nothingToSee.0fa69445.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.914221e7.js",
-    "static/js/2.383d1f55.chunk.js",
+    "static/js/runtime-main.6c28279b.js",
+    "static/js/2.1603782d.chunk.js",
     "static/css/main.553d5387.chunk.css",
-    "static/js/main.620234ba.chunk.js"
+    "static/js/main.1509b161.chunk.js"
   ]
 }
